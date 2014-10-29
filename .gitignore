@@ -4,3 +4,4 @@ protected/runtime/*
 !protected/runtime/.gitignore
 protected/data/*.db
 themes/classic/views/
+yii-1.1.15.022a51/*
